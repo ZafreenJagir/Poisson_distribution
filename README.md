@@ -1,4 +1,8 @@
 # Fitting Poisson  distribution
+# Date : 07/03/2025
+# Register Number : 212223040252
+# Name : Zafreen J
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
